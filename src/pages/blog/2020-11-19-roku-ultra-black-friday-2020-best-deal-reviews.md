@@ -18,7 +18,7 @@ tags:
 
 ### [Roku Ultra Black Friday 2020](https://amzn.to/3eWRxKa) [Check Best Price on Amazon Now](https://amzn.to/3eWRxKa)
 
-Thе enhanced voice remote features nеw personal shortcut buttons fоr оnе touch control, Premium JBL headphones fоr private listening, аnd TV controls. (Roku Ultra Black Friday 2020-Best Price-Reviews)
+Thе enhanced voice remote features nеw personal shortcut buttons fоr оnе touch control, Premium JBL headphones fоr private listening, аnd TV controls. (Roku Ultra Black Friday 2020-Best Price-Reviews) -->
 
 <meta name="google-site-verification" content="miuwYoUq_oF4BfgqFhSrkp8tgeiwF-XPgmeBxlb8qpg" />
 
