@@ -1,56 +1,59 @@
 ---
-templateKey: 'product-page'
+heading: Roku Ultra 2020 | Streaming Media Player HD/4K
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Roku Ultra 2021 | Streaming Media Player HD/4K
+image: /img/roku-ultra-2021-review-fastestpowerful-streamer.png
+description: When I got my Roku 4, everything was good. However, it just seemed
+  to deteriorate over time. 50% of the time when I would access it, it would
+  need a restart because of the infamous purple screen, (you hear the audio, but
+  your screen is a dense blanket of purple. It began slowing down also. However,
+  once you finally get it going, it's still good.  I upgraded to the Roku Ultra
+  2020 yesterday and the hook up was very quick and so far it's working
+  perfectly with no signs of screen purpility. Plus it's working notably faster
+  than my previous model. It comes with the streaming player, an HDMI, the power
+  source, the remote, batteries and a set of earplugs (wired). The only thing
+  you have to do is sign up for a Roku account (for free), and then set up your
+  channels. It comes with channels already set up, a lot I took off. I'm not
+  using Sling, I won't be using ESPN, and so on. Plus, I have subscriptions to
+  channels that need to be included, that I can find on the channels list. I
+  still maintain that ROKU has the most freedom to design your player the way
+  you see fit as far as what channels you wish to include, where their placement
+  is, and what channels you don't want. Sure, ROKU will push Sling, but if you
+  don't want it, you remove it.  This is my third ROKU player in maybe about 17
+  years. Over the years, and depending on which room I have the player, some of
+  the channel apps may be different. When you are an existing ROKU account
+  holder, when you activate your new ROKU player it will start downloading your
+  channels automatically. Right now I have about 58 channel apps on my ROKU,
+  however my account says that I have 168 channels, and it starts downloading
+  all of these channels. I don't know how to stop it. But luckily it did not
+  take the 20 minutes or so that it usually takes. It was done in just about one
+  minute. Probably because of the 2 Gigs of memory along with the updated
+  processer, it went by lightning fast. It only took me a few minutes to delete
+  all of the unneeded channels.  There are some downsides here that I've
+  noticed. Although I do like the feel of this newly fashioned remote, it is
+  much less responsive when using the volume button. I find that I have to point
+  directly at the TV and at the correct angle in order to use this feature.
+  There also seems to be a slight delay with response time when choosing channel
+  apps with the remote. The remote for the ROKU 4 was immediate.  The
+  improvements that I appreciate are some of the settings. First off I love that
+  it now accepts the HDR/Dolby Vision video codecs. I definitely notice the
+  difference in apps like VUDU. As far as I am concerned, my favorite upgrade is
+  the audio options. While they say that this player is Dolby Atmos friendly, I
+  thought I was able to get this with the ROKU 4. But, the option for audio
+  pass-through is the setting I chose. This way there's no middle man, actually
+  there's no need for it anyway. Now the audio passes through right to my
+  soundbar, perfect option IMO.  But, I do like this player a lot. Is there a
+  slight delay when choosing channels? Yes, however the speed in which the open
+  and the fact that there are a lot less audio drops is a vast improvement for
+  me. I understa
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: Copy and paste the link to watch on Amazon
+  description: https://amzn.to/3kLkDgI
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ..
+  description: ..
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -60,42 +63,10 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+testimonials: []
+full_image: /img/roku-ultra-2021-review-fastestpowerful-streamer.png
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+  heading: Copy and paste the link to watch on Amazon
+  description: https://amzn.to/3kLkDgI
+  plans: []
 ---
