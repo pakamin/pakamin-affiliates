@@ -6,10 +6,25 @@ heading: Roku Ultra Streaming Media Player 2021
 subheading: Roku Ultra The best Streaming Media Player 4K/HD 2021
 mainpitch:
   title: Why Roku Ultra Streaming Media Player 2021?
-  description: Roku Ultra 2020 | Streaming Media Player HD/4K/HDR/Dolby Vision
-    with Dolby Atmos, Bluetooth Streaming, and Roku Voice Remote with Headphone
-    Jack and Personal Shortcuts, Includes Premium HDMI Cable
-description: "The Roco Ultra is perfect in combination with the powerful quad
+  description: >+
+    Roku Ultra 2020 | Streaming Media Player HD/4K/HDR/Dolby Vision with Dolby
+    Atmos, Bluetooth Streaming, and Roku Voice Remote with Headphone Jack and
+    Personal Shortcuts, Includes Premium HDMI Cable.
+
+    .
+
+    .
+
+    .
+
+    .
+
+    ..</br>
+
+
+    Check this on Amazon here:   https://amzn.to/3eWRxKa
+
+description: "The Roku Ultra is perfect in combination with the powerful quad
   core processor and it is the best wireless. When you watch in HD, 4K or HDR,
   you will enhance the image quality for your TV with sub-descriptions and
   bright colors. The enhanced voice remote control has a personal touch control
@@ -19,8 +34,8 @@ description: "The Roco Ultra is perfect in combination with the powerful quad
   Black Friday 2020 Amazon - check out the full bout.  Get your best
   entertainment fast with instant running channels and enjoy b-features like
   lost remote finder, USB and microSD ports, and Ethernet port for the ultimate
-  connection. Turn off everything, including free TV broadcasts, live news,
-  sports and more. Never miss out on award-winning shows, the latest
+  connection. <b> Turn off </b>everything, including free TV broadcasts, live
+  news, sports and more. Never miss out on award-winning shows, the latest
   blockbusters and more. Access to more than 500,000 movies and TV shows. Follow
   what you like and reduce cable TV bills. Close Ultra Black Friday 2020  Enjoy
   free TV: live TV streaming, 24/7 news, games, movies, shows and much more, a
